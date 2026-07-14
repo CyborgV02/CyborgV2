@@ -2,13 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed!+%F0%9F%91%8B;Software+Engineer+%E2%9A%99%EF%B8%8F;Game+Developer+%26+Designer+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
-<img align="right" src="Assets/PFP.jpg" width="320" style="border-radius: 50%;" alt="Ahmed Kamal" />
+<table style="border: none; border-collapse: collapse; width: 100%;">
+<tr style="border: none;">
+<td width="60%" valign="middle" style="border: none;">
 
 - 🎓 Computer Science graduate (Distinction) & a Junior Software Engineer
 - 🌱 I'm currently sharpening my skills in Game Development and Problem Solving
 - 🎮 I enjoy building action-adventure games and tight, responsive platformer movement like Hollow Knight, Celeste, Dead Cells & Hades are big inspirations
 
-<br clear="both">
+</td>
+<td width="40%" valign="middle" align="right" style="border: none;">
+<img src="Assets/PFP.jpg" width="350" style="border-radius: 50%;" alt="Ahmed Kamal" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,7 +38,6 @@
 ![C++](https://img.shields.io/badge/-C++-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-A78BFA?style=for-the-badge&logo=git&logoColor=white)  
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-8B5CF6?style=for-the-badge&logo=code&logoColor=white)
-
 </div>
 
 ---
@@ -49,13 +55,10 @@
 </tr>
 </table>
 </div>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=CyborgV02&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=cccccc&border=8B5CF6&hide_border=true" alt="GitHub Streak"/>
 </div>
-
 ---
-
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Projects
 
 ### 🕹️ [2D Platformer Character Controller](ADD_YOUR_PROJECT_LINK_HERE)
