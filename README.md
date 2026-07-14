@@ -11,7 +11,7 @@
 - 🎮 I enjoy building action-adventure games and tight, responsive platformer movement like Hollow Knight, Celeste, Dead Cells & Hades are big inspirations
 
 </td>
-<td width="40%" valign="middle" align="right" style="border: none;">
+<td width="40%" valign="middle" align="center" style="border: none;">
 <img src="Assets/PFP.jpg" width="350" style="border-radius: 50%;" alt="Ahmed Kamal" />
 </td>
 </tr>
@@ -30,18 +30,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Technologies & Tools
-<div align="center">
-
-![C#](https://img.shields.io/badge/-C%23-8B5CF6?style=for-the-badge&logo=csharp&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-A78BFA?style=for-the-badge&logo=unity&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-A78BFA?style=for-the-badge&logo=git&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-8B5CF6?style=for-the-badge&logo=code&logoColor=white)
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
 <div align="center">
 <table style="border: none; border-collapse: collapse;">
@@ -55,10 +43,13 @@
 </tr>
 </table>
 </div>
+
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=CyborgV02&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=cccccc&border=8B5CF6&hide_border=true" alt="GitHub Streak"/>
 </div>
+
 ---
+
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Projects
 
 ### 🕹️ [2D Platformer Character Controller](ADD_YOUR_PROJECT_LINK_HERE)
