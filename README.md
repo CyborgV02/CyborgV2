@@ -9,13 +9,16 @@
 - 🎮 I enjoy building action-adventure games and tight, responsive platformer movement like Hollow Knight, Celeste, Dead Cells & Hades are big inspirations
 
 <br clear="both">
+
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-kamal-b1b295233/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkamalv2@gmail.com)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Play%20my%20games-A78BFA?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cyborgv2.itch.io/)
+
 </div>
 
 ---
