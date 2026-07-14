@@ -2,35 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed!+%F0%9F%91%8B;Software+Engineer+%E2%9A%99%EF%B8%8F;Game+Developer+%26+Designer+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="ADD_YOUR_PHOTO_URL_HERE" width="150" height="150" style="border-radius: 50%;" alt="Ahmed Kamal" />
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-<img 
-  align="right" 
-  alt="Coding" 
-  width="320" 
-  src="https://cdn.dribbble.com/userupload/42123479/file/original-e71801a76a33768d4ed19f1f5a2df61d.gif" 
-/>
+<img align="right" src="Assets/PFP.jpg" width="320" style="border-radius: 50%;" alt="Ahmed Kamal" />
 
 - 🎓 Computer Science graduate (Distinction) & a Junior Software Engineer
 - 🌱 I'm currently sharpening my skills in Game Development and Problem Solving
-- 🎮 I enjoy building action-adventure games and tight, responsive platformer movement — Hollow Knight, Celeste, Dead Cells & Hades are big inspirations  
+- 🎮 I enjoy building action-adventure games and tight, responsive platformer movement like Hollow Knight, Celeste, Dead Cells & Hades are big inspirations
 
-<br clear="both"/>
-
+<br clear="both">
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_YOUR_LINKEDIN_URL_HERE)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_YOUR_EMAIL_HERE)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Play%20my%20games-A78BFA?style=for-the-badge&logo=itchdotio&logoColor=white)](ADD_YOUR_ITCHIO_URL_HERE)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-kamal-b1b295233/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkamalv2@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Play%20my%20games-A78BFA?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cyborgv2.itch.io/)
 </div>
 
 ---
@@ -50,12 +35,12 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats & Top Languages
 <div align="center">
-<table>
-<tr>
-<td>
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none;">
 <img src="https://github-readme-stats.vercel.app/api?username=CyborgV02&show_icons=true&title_color=8B5CF6&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" />
 </td>
-<td>
+<td style="border: none;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborgV02&layout=compact&title_color=8B5CF6&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&langs_count=8" alt="Ahmed's Top Languages" />
 </td>
 </tr>
