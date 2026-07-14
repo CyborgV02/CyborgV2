@@ -35,10 +35,10 @@
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=CyborgV02&show_icons=true&title_color=8B5CF6&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=CyborgV02&show_icons=true&title_color=8B5CF6&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" />
 </td>
 <td style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborgV02&layout=compact&title_color=8B5CF6&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&langs_count=8" alt="Ahmed's Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CyborgV02&layout=compact&title_color=8B5CF6&text_color=ffffff&bg_color=0d1117&border_color=8B5CF6&hide_border=true&langs_count=8" alt="Ahmed's Top Languages" />
 </td>
 </tr>
 </table>
@@ -69,8 +69,7 @@ A modular, reusable dialogue system for story-driven games — designed for easy
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate
-If you enjoy creative coding and tight platformer feel,  
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Collaborate 
 I'd love to team up for:
 - 🌱 Exploring 2D/3D game development & gameplay systems programming  
 
