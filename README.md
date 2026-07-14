@@ -52,13 +52,13 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Projects
 
-### 🕹️ [2D Platformer Character Controller](ADD_YOUR_PROJECT_LINK_HERE)
+### 🕹️ [2D Platformer Character Controller](https://github.com/CyborgV02/2D-Platformer-Character-Controller)
 A fully custom physics-based movement system in Unity — 8-directional dash with gravity-state handling, coyote time, jump buffering, variable jump height, wall slide & wall jump with robust direction detection.
 
-### 🎭 [The Mask of Wild Shape](ADD_YOUR_PROJECT_LINK_HERE)
+### 🎭 [The Mask of Wild Shape](https://github.com/CyborgV02/Mask-Of-WildShape)
 Built in 72 hours at Global Game Jam 2026 with a team of 3 developers and 1 artist. Implemented player controller, level design, and core gameplay mechanics under a hard jam deadline.
 
-### 💬 [Dialogue System Prototype](ADD_YOUR_PROJECT_LINK_HERE)
+### 💬 [Dialogue System Prototype](https://github.com/CyborgV02/Dialogue-System-Prototype)
 A modular, reusable dialogue system for story-driven games — designed for easy reuse and maintainability across projects, with documented setup for integration elsewhere.
 
 ---
